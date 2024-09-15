@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+GA38 | Nhà Cái Dẫn Đầu Xu Thế Cá Cược Trực Tuyến
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`GA38 <https://ga38.mobi/>`_ là thiên đường đá gà hàng đầu Việt Nam mang đến cho anh em nhiều trò chơi hấp dẫn. Đến với thương hiệu bạn sẽ nhận được tỷ lệ thưởng cao nhất hiện tại !
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin chi tiết: 
 
-.. note::
+Địa Chỉ: 69 Đ. Phú Lợi, Phú Lợi, Thủ Dầu Một, Bình Dương, Việt Nam
 
-   This project is under active development.
+Số Điện Thoại: 0944468966
 
-Contents
---------
+Email: contact@ga38.mobi
 
-.. toctree::
+Website: https://ga38.mobi/ 
 
-   usage
-   api
+Hashtags: #ga38 #nhacaiga38 #ga38mobi #trangchuga38
